@@ -8,7 +8,9 @@
 <br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
 
 ## 💻 Descrição do projeto 
- O Pomo bot é uma landing page criada como projeto final do curso Code Together da Universidade Federal da Paraíba. 
+ O Pomo Bot é uma landing page criada como projeto final do curso Code Together oferecido pela Universidade Federal da Paraíba. 
+ 
+O projeto é responsivo, conta com um menu mobile e com um botão de voltar ao topo. 
  
  <br>
 
