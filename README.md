@@ -1,43 +1,40 @@
-# POMO BOT 
+<h1 align="center"><a href="#" alt="site do pomobot"> POMO BOT 🍅 </a></h1>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Pomobot-landing-page?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/anafts/Pomobot-landing-page?style=for-the-badge)
 
 ![preview](./.github/preview.png)
 
-## 
+<br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
+
+## 💻 Descrição do projeto 
  O Pomo bot é uma landing page criada como projeto final do curso Code Together da Universidade Federal da Paraíba. 
  
- #
+ <br>
 
-## 🚀 Acesse o projeto:
+## 🚀 Como acessar o projeto:
 [Clique aqui para acessar](https://anafts.github.io/Pomobot-landing-page/)
- #
 
+<br>
 
-## 🛠️ Technologies: 
+## 🛠️ Tecnologias utilizadas:  
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
+<br>
 
-# 
+## 📚 Aprendizagem:
 
-## 📚 Learning
-
-O pomo bot foi a primeira landing page que desenvolvi, com o projeto aprendi 
+O pomo bot foi a primeira landing page que eu desenvolvi, com o projeto eu consegui aprender
 - FlexBox
 - Botão "back to top"
 - Menu mobile
 - Responsividade
 
-#
 
-## 💌 Contact-me
-Se você gostou do meu projeto, então me segue nas minhas redes sociais. 
 
-<a href="https://www.linkedin.com/in/ana-freitas-794b3523b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_beafts/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.behance.net/anafts" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+
+
 
