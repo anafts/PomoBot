@@ -1,7 +1,7 @@
 <h1 align="center"><a href="#" alt="site do pomobot"> POMO BOT 🍅 </a></h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Pomobot-landing-page?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/anafts/Pomobot-landing-page?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/anafts/PomoBot?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/anafts/PomoBot?style=for-the-badge)
 
 ![preview](./.github/preview.png)
 
@@ -13,7 +13,7 @@
  <br>
 
 ## 🚀 Como acessar o projeto:
-[Clique aqui para acessar](https://anafts.github.io/Pomobot-landing-page/)
+[Clique aqui para acessar](https://anafts.github.io/PomoBot/)
 
 <br>
 
