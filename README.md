@@ -5,6 +5,7 @@
 
 ![preview](./.github/preview.png)
 
+
 <br><h4 align="center"> 🟢 Status do projeto:  Concluído ✔️   </h4> <br>
 
 ## 💻 Descrição do projeto 
