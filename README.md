@@ -16,7 +16,8 @@ O projeto é responsivo, conta com um menu mobile e com um botão de voltar ao t
  <br>
 
 ## 🚀 Como acessar o projeto:
-[Clique aqui para acessar](https://anafts.github.io/PomoBot/)
+
+Para acessar o link do projeto [clique aqui](https://anafts.github.io/PomoBot/)
 
 <br>
 
