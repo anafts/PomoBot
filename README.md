@@ -37,8 +37,3 @@ O pomo bot foi a primeira landing page que eu desenvolvi, com o projeto eu conse
 - Menu mobile
 - Responsividade
 
-
-
-
-
-
